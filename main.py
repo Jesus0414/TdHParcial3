@@ -45,13 +45,13 @@ def respond(voice_data):
         webbrowser.get().open(url)
         print('Es lo que encontre para:' + anime)
 
-print('Como te puedo ayudar?')
-voice_data = record_audio()
-respond(voice_data)
-
-
-#time.sleep(1)
 #print('Como te puedo ayudar?')
-#while 1:
-#    voice_data = record_audio()
-#    respond(voice_data)
+#voice_data = record_audio()
+#respond(voice_data)
+
+
+time.sleep(1)
+print('Como te puedo ayudar?')
+while 1:
+    voice_data = record_audio()
+    respond(voice_data)
