@@ -1,0 +1,8 @@
+Buscador de imágenes
+En este asistente necesitas primero decir en que navegador quiere buscar la imagen 
+para que decir lo que quieres buscar.
+Siempre trata de hablar fuerte y claro para que el reconocimiento de voz sea lo más eficaz que pueda ser.
+Link de youtube: 
+https://youtu.be/Xt_m25kVYMM
+Link del repositorio de github:
+https://github.com/Jesus0414/TdHParcial3/blob/main/images.py
